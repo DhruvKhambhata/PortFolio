@@ -291,6 +291,11 @@ section .title::after {
     content: "who i am";
 }
 
+
+.about .marginTop{
+    margin-top:10px !important;
+}
+
 .about .about-content .left {
     width: 45%;
 }
