@@ -237,13 +237,6 @@ section .title::after {
     font-family: 'Ubuntu', sans-serif;
 }
 
-.text{
-    text-align: center;
-}
-.skillBox{
-    display: flex; flex-direction: column;
-    padding:10px;justify-content: center;align-items: center;
-}
 .home .max-width {
     width: 100%;
     display: flex;
@@ -593,7 +586,7 @@ section .title::after {
 }
 
 .contact .contact-content .left p {
-    text-align: justify;max-width
+    text-align: justify;
 }
 
 .contact .contact-content .left .icons {
