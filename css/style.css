@@ -328,11 +328,11 @@ section .title::after {
     color: crimson;
 }
 
-.about .about-content .right p {
+.about .about-content p {
     text-align: justify;
 }
 
-.about .about-content .right a {
+.about .about-content a {
     display: inline-block;
     background: crimson;
     color: #fff;
@@ -345,7 +345,7 @@ section .title::after {
     transition: all 0.3s ease;
 }
 
-.about .about-content .right a:hover {
+.about .about-content  a:hover {
     color: crimson;
     background: none;
 }
